@@ -1,6 +1,10 @@
 {
   "name": "Nexo Plugin",
   "updated": "2026-10-31",
+  "contact": {
+    "whatsapp": "085895398951",
+    "telegram": "@Exoforb"
+  },
   "plugins": [
     {
       "id": "genieacs-manager",
