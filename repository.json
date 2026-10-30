@@ -17,6 +17,11 @@
       "min_nexobill_version": "2024.1",
       "repo": "Nexo-Plugin/GenieACS-Manager",
       "installer": "genieacs_installer.php",
+      "images": [
+        "images/genieacs-manager/1.png",
+        "images/genieacs-manager/2.png",
+        "images/genieacs-manager/3.png"
+      ],
       "description": "Kelola ONT/ONU lewat GenieACS (TR-069): WiFi, WAN, monitoring perangkat, dan banyak server sekaligus.",
       "description_en": "Manage ONT/ONU devices through GenieACS (TR-069): WiFi, WAN, device monitoring and multiple servers."
     },
@@ -31,6 +36,12 @@
       "min_nexobill_version": "2024.1",
       "repo": "Nexo-Plugin/MIKROMON",
       "installer": "mikromon_installer.php",
+      "images": [
+        "images/mikromon/1.png",
+        "images/mikromon/2.png",
+        "images/mikromon/3.png",
+        "images/mikromon/4.png"
+      ],
       "description": "Monitor MikroTik real-time: trafik PPPoE, bandwidth, CPU, memori, riwayat pemakaian, remote access, dan port forwarding.",
       "description_en": "Real-time MikroTik monitoring: PPPoE traffic, bandwidth, CPU, memory, usage history, remote access and port forwarding."
     },
@@ -45,6 +56,11 @@
       "min_nexobill_version": "2024.1",
       "repo": "Nexo-Plugin/Mapping-FFTH",
       "installer": "ffth_installer.php",
+      "images": [
+        "images/mapping-ffth/1.png",
+        "images/mapping-ffth/2.png",
+        "images/mapping-ffth/3.png"
+      ],
       "description": "Peta jaringan FTTH interaktif: OLT, ODC, ODP, tiang, kabel, pelanggan, dan survei homepass di atas peta.",
       "description_en": "Interactive FTTH network map: OLT, ODC, ODP, poles, cables, customers and homepass survey on the map."
     },
@@ -59,6 +75,12 @@
       "min_nexobill_version": "2024.1",
       "repo": "Nexo-Plugin/QuickHotspot",
       "installer": "quickhotspot_installer.php",
+      "images": [
+        "images/quickhotspot/1.png",
+        "images/quickhotspot/2.png",
+        "images/quickhotspot/3.png",
+        "images/quickhotspot/4.png"
+      ],
       "description": "Voucher hotspot MikroTik tanpa registrasi pelanggan: buat, kelola, dan jual voucher, lengkap dengan beli mandiri lewat payment gateway dan sistem reseller.",
       "description_en": "MikroTik hotspot vouchers without customer registration: generate, manage and sell vouchers, with self-service payment gateway purchase and reseller system."
     }
