@@ -63,26 +63,6 @@
       ],
       "description": "Peta jaringan FTTH interaktif: OLT, ODC, ODP, tiang, kabel, pelanggan, dan survei homepass di atas peta.",
       "description_en": "Interactive FTTH network map: OLT, ODC, ODP, poles, cables, customers and homepass survey on the map."
-    },
-    {
-      "id": "quickhotspot",
-      "name": "QuickHotspot",
-      "type": "plugin",
-      "access": "paid",
-      "version": "1.0.1",
-      "tag": "v1.0.1",
-      "release_date": "2026-04-22",
-      "min_nexobill_version": "2024.1",
-      "repo": "Nexo-Plugin/QuickHotspot",
-      "installer": "quickhotspot_installer.php",
-      "images": [
-        "images/quickhotspot/1.png",
-        "images/quickhotspot/2.png",
-        "images/quickhotspot/3.png",
-        "images/quickhotspot/4.png"
-      ],
-      "description": "Voucher hotspot MikroTik tanpa registrasi pelanggan: buat, kelola, dan jual voucher, lengkap dengan beli mandiri lewat payment gateway dan sistem reseller.",
-      "description_en": "MikroTik hotspot vouchers without customer registration: generate, manage and sell vouchers, with self-service payment gateway purchase and reseller system."
     }
   ]
 }
